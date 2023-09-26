@@ -18,5 +18,4 @@
 ├── project.config.json                    // 项目环境配置项
 ├── project.private.config.json            // 项目私有配置项
 └── sitemap.json                           // SEO 优化
-
 ```
